@@ -2,7 +2,7 @@
 
 نظام حجز مواعيد تجريبي لعيادة أسنان: اختيار الخدمة واليوم والساعة، ثم تأكيد الحجز بكود OTP (محاكاة). يدعم العربية (RTL) والـ Dark Mode.
 
-🔗 **Live Demo:** https://blackclover000.github.io/clinic/
+🔗 **Live Demo:** https://blackclover000.github.io/the-clinic/
 
 ![Home](images/لقطة%20شاشة%202026-10-22%20142412.png)
 
